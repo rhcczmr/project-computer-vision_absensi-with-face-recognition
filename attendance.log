@@ -1,0 +1,538 @@
+2024-12-25 11:21:35,535 - INFO - Starting Attendance System
+2024-12-25 11:21:35,654 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:21:36,041 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:21:36,057 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:21:36,057 - INFO - Loading faces from data\user_faces
+2024-12-25 11:21:36,057 - INFO - Loading face from: data\user_faces\raa.jpg
+2024-12-25 11:21:36,888 - INFO - Successfully loaded face for: raa
+2024-12-25 11:21:36,888 - INFO - Loading face from: data\user_faces\raa_1.jpg
+2024-12-25 11:21:37,694 - INFO - Successfully loaded face for: raa_1
+2024-12-25 11:21:37,695 - INFO - Loading face from: data\user_faces\rhac.jpg
+2024-12-25 11:21:38,468 - INFO - Successfully loaded face for: rhac
+2024-12-25 11:21:38,468 - INFO - Loading face from: data\user_faces\tes.jpg
+2024-12-25 11:21:39,243 - INFO - Successfully loaded face for: tes
+2024-12-25 11:21:39,243 - INFO - Total faces loaded: 4
+2024-12-25 11:21:39,243 - INFO - Known faces: ['raa', 'raa_1', 'rhac', 'tes']
+2024-12-25 11:21:39,308 - INFO - Starting main application loop
+2024-12-25 11:22:06,075 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:22:06,438 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:22:06,438 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:22:36,440 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:22:36,818 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:22:36,820 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:22:42,610 - INFO - Camera started
+2024-12-25 11:22:57,533 - ERROR - Attempted to record attendance without recognized face
+2024-12-25 11:23:07,778 - INFO - Starting Attendance System
+2024-12-25 11:23:07,863 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:23:08,228 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:23:08,229 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:23:08,230 - INFO - Loading faces from data\user_faces
+2024-12-25 11:23:08,231 - INFO - Loading face from: data\user_faces\raa.jpg
+2024-12-25 11:23:09,228 - INFO - Successfully loaded face for: raa
+2024-12-25 11:23:09,228 - INFO - Loading face from: data\user_faces\raa_1.jpg
+2024-12-25 11:23:10,071 - INFO - Successfully loaded face for: raa_1
+2024-12-25 11:23:10,071 - INFO - Loading face from: data\user_faces\rhaa.jpg
+2024-12-25 11:23:10,924 - INFO - Successfully loaded face for: rhaa
+2024-12-25 11:23:10,924 - INFO - Loading face from: data\user_faces\rhac.jpg
+2024-12-25 11:23:11,726 - INFO - Successfully loaded face for: rhac
+2024-12-25 11:23:11,727 - INFO - Loading face from: data\user_faces\tes.jpg
+2024-12-25 11:23:12,508 - INFO - Successfully loaded face for: tes
+2024-12-25 11:23:12,509 - INFO - Total faces loaded: 5
+2024-12-25 11:23:12,509 - INFO - Known faces: ['raa', 'raa_1', 'rhaa', 'rhac', 'tes']
+2024-12-25 11:23:12,526 - INFO - Starting main application loop
+2024-12-25 11:27:48,780 - INFO - Starting Attendance System
+2024-12-25 11:27:48,852 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:27:49,389 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:27:49,389 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:27:49,389 - INFO - Loading faces from data\user_faces
+2024-12-25 11:27:49,405 - INFO - Loading face from: data\user_faces\raa.jpg
+2024-12-25 11:27:50,202 - INFO - Successfully loaded face for: raa
+2024-12-25 11:27:50,202 - INFO - Loading face from: data\user_faces\raa_1.jpg
+2024-12-25 11:27:50,963 - INFO - Successfully loaded face for: raa_1
+2024-12-25 11:27:50,963 - INFO - Loading face from: data\user_faces\rhaa.jpg
+2024-12-25 11:27:51,744 - INFO - Successfully loaded face for: rhaa
+2024-12-25 11:27:51,744 - INFO - Loading face from: data\user_faces\rhac.jpg
+2024-12-25 11:27:52,481 - INFO - Successfully loaded face for: rhac
+2024-12-25 11:27:52,481 - INFO - Loading face from: data\user_faces\tes.jpg
+2024-12-25 11:27:53,230 - INFO - Successfully loaded face for: tes
+2024-12-25 11:27:53,230 - INFO - Total faces loaded: 5
+2024-12-25 11:27:53,230 - INFO - Known faces: ['raa', 'raa_1', 'rhaa', 'rhac', 'tes']
+2024-12-25 11:27:53,266 - INFO - Starting main application loop
+2024-12-25 11:28:01,005 - INFO - Camera started
+2024-12-25 11:28:07,583 - ERROR - Attempted to record attendance without recognized face
+2024-12-25 11:28:19,388 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:28:19,730 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:28:19,745 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:28:50,014 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:28:50,395 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:28:50,395 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:29:34,602 - INFO - Starting Attendance System
+2024-12-25 11:29:34,692 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:29:35,068 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:29:35,068 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:29:35,068 - INFO - Loading faces from data\user_faces
+2024-12-25 11:29:35,068 - INFO - Total faces loaded: 0
+2024-12-25 11:29:35,068 - INFO - Known faces: []
+2024-12-25 11:29:35,103 - INFO - Starting main application loop
+2024-12-25 11:30:05,072 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:30:05,432 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:30:05,432 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:30:05,799 - INFO - Camera started
+2024-12-25 11:30:36,244 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:30:36,595 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:30:36,595 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:30:57,261 - INFO - Starting Attendance System
+2024-12-25 11:30:57,338 - INFO - Tables created successfully
+2024-12-25 11:30:57,338 - INFO - Database initialized
+2024-12-25 11:30:57,344 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:30:57,712 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:30:57,712 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:30:57,712 - INFO - Loading faces from data\user_faces
+2024-12-25 11:30:57,712 - INFO - Loading face from: data\user_faces\tess.jpg
+2024-12-25 11:30:58,551 - INFO - Successfully loaded face for: tess
+2024-12-25 11:30:58,551 - INFO - Total faces loaded: 1
+2024-12-25 11:30:58,551 - INFO - Known faces: ['tess']
+2024-12-25 11:30:58,575 - INFO - Starting main application loop
+2024-12-25 11:31:27,703 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:31:28,042 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:31:28,042 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:31:58,069 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:31:58,486 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:31:58,486 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:32:22,279 - INFO - Database connection closed properly
+2024-12-25 11:32:26,474 - INFO - Starting Attendance System
+2024-12-25 11:32:26,538 - INFO - Tables created successfully
+2024-12-25 11:32:26,538 - INFO - Database initialized
+2024-12-25 11:32:26,552 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:32:26,889 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:32:26,889 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:32:26,889 - INFO - Loading faces from data\user_faces
+2024-12-25 11:32:26,889 - INFO - Loading face from: data\user_faces\hewee.jpg
+2024-12-25 11:32:27,687 - INFO - Successfully loaded face for: hewee
+2024-12-25 11:32:27,703 - INFO - Loading face from: data\user_faces\tess.jpg
+2024-12-25 11:32:28,450 - INFO - Successfully loaded face for: tess
+2024-12-25 11:32:28,450 - INFO - Total faces loaded: 2
+2024-12-25 11:32:28,450 - INFO - Known faces: ['hewee', 'tess']
+2024-12-25 11:32:28,473 - INFO - Starting main application loop
+2024-12-25 11:32:56,895 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:32:57,286 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:32:57,286 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:33:27,304 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:33:27,665 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:33:27,666 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:33:57,668 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:33:58,035 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:33:58,036 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:34:28,048 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:34:28,404 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:34:28,404 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:34:58,418 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:34:58,789 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:34:58,789 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:35:28,797 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:35:29,223 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:35:29,231 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:35:59,261 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:35:59,743 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:35:59,748 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:36:29,780 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:36:30,260 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:36:30,261 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:37:00,269 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:37:00,774 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:37:00,777 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:37:30,785 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:37:31,182 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:37:31,182 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:38:01,203 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:38:01,703 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:38:01,703 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:38:31,724 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:38:32,315 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:38:32,315 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:39:02,341 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:39:02,827 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:39:02,835 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:39:32,857 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:39:33,556 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:39:33,556 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:40:03,568 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:40:04,549 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:40:04,549 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:40:34,567 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:40:35,090 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:40:35,090 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:41:05,112 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:41:05,505 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:41:05,512 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:41:35,526 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:41:35,917 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:41:35,917 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:41:57,041 - INFO - Database connection closed properly
+2024-12-25 11:43:32,027 - INFO - Starting Attendance System
+2024-12-25 11:43:32,118 - INFO - Tables created successfully
+2024-12-25 11:43:32,118 - INFO - Database initialized
+2024-12-25 11:43:32,132 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:43:32,753 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:43:32,759 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:43:32,759 - INFO - Loading faces from data\user_faces
+2024-12-25 11:43:32,759 - INFO - Loading face from: data\user_faces\hdhdhdhd.jpg
+2024-12-25 11:43:33,750 - INFO - Successfully loaded face for: hdhdhdhd
+2024-12-25 11:43:33,750 - INFO - Loading face from: data\user_faces\hewee.jpg
+2024-12-25 11:43:34,703 - INFO - Successfully loaded face for: hewee
+2024-12-25 11:43:34,703 - INFO - Loading face from: data\user_faces\tess.jpg
+2024-12-25 11:43:35,612 - INFO - Successfully loaded face for: tess
+2024-12-25 11:43:35,612 - INFO - Total faces loaded: 3
+2024-12-25 11:43:35,612 - INFO - Known faces: ['hdhdhdhd', 'hewee', 'tess']
+2024-12-25 11:43:35,656 - INFO - Starting main application loop
+2024-12-25 11:43:58,475 - INFO - Added new user: yayayay
+2024-12-25 11:44:02,757 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:44:03,260 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:44:03,260 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:44:06,627 - INFO - Camera started
+2024-12-25 11:44:20,353 - ERROR - Attempted to record attendance without recognized face
+2024-12-25 11:44:22,495 - INFO - Database connection closed properly
+2024-12-25 11:44:38,398 - INFO - Starting Attendance System
+2024-12-25 11:44:38,495 - INFO - Tables created successfully
+2024-12-25 11:44:38,495 - INFO - Database initialized
+2024-12-25 11:44:38,515 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:44:38,976 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:44:38,976 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:44:38,976 - INFO - Loading faces from data\user_faces
+2024-12-25 11:44:38,976 - INFO - Loading face from: data\user_faces\yayayay.jpg
+2024-12-25 11:44:40,069 - INFO - Successfully loaded face for: yayayay
+2024-12-25 11:44:40,069 - INFO - Total faces loaded: 1
+2024-12-25 11:44:40,069 - INFO - Known faces: ['yayayay']
+2024-12-25 11:44:40,106 - INFO - Starting main application loop
+2024-12-25 11:44:43,782 - INFO - Camera started
+2024-12-25 11:44:44,740 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:46,163 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:46,800 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:47,483 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:48,118 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:48,718 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:49,327 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:49,974 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:50,671 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:51,291 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:51,901 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:52,545 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:52,556 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:44:53,025 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:44:53,025 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:44:53,041 - INFO - Recording attendance for yayayay in WFO mode
+2024-12-25 11:44:53,057 - INFO - Added attendance for user 1
+2024-12-25 11:44:53,667 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:54,276 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:54,883 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:55,574 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:56,212 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:56,819 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:57,413 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:58,021 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:58,043 - INFO - Successfully recorded attendance for yayayay
+2024-12-25 11:44:58,577 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:59,164 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:44:59,753 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:00,437 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:01,087 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:01,697 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:02,355 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:03,004 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:03,620 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:04,248 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:04,943 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:05,523 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:06,256 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:06,834 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:09,205 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:45:09,829 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:45:09,829 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:45:10,439 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:11,040 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:11,643 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:12,293 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:12,910 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:13,494 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:14,311 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:14,928 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:15,522 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:16,111 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:16,689 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:17,246 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:17,707 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:18,178 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:18,818 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:19,332 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:19,999 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:20,623 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:21,301 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:22,016 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:24,098 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:26,012 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:26,694 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:27,344 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:28,004 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:28,654 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:29,252 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:29,888 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:30,543 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:31,252 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:31,862 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:32,500 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:33,126 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:33,762 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:34,366 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:34,974 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:35,457 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:35,946 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:36,456 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:37,233 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:37,868 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:38,482 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:39,116 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:39,702 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:40,334 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:40,340 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:45:40,756 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:45:40,756 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:45:41,206 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:41,672 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:42,484 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:43,174 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:44,043 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:44,672 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:45,295 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:46,976 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:49,028 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:51,143 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:45:53,338 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:02,132 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:06,299 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:08,373 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:10,432 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:12,443 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:12,478 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:46:12,906 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:46:12,906 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:46:14,816 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:16,789 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:18,961 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:21,013 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:23,079 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:25,188 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:27,220 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:36,497 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:39,353 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:41,410 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:43,519 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:46:44,036 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:46:44,036 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:46:46,073 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:48,202 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:50,334 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:52,428 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:54,701 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:57,050 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:46:59,150 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:01,275 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:03,405 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:05,516 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:07,667 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:09,012 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:09,612 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:10,235 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:11,008 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:11,568 - INFO - Recognized user: yayayay (ID: 1)
+2024-12-25 11:47:11,825 - INFO - Database connection closed properly
+2024-12-25 11:47:19,103 - INFO - Starting Attendance System
+2024-12-25 11:47:19,168 - INFO - Tables created successfully
+2024-12-25 11:47:19,168 - INFO - Database initialized
+2024-12-25 11:47:19,186 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:47:19,663 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:47:19,663 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:47:19,678 - INFO - Loading faces from data\user_faces
+2024-12-25 11:47:19,678 - INFO - Loading face from: data\user_faces\yayayay.jpg
+2024-12-25 11:47:20,716 - INFO - Successfully loaded face for: yayayay
+2024-12-25 11:47:20,716 - INFO - Total faces loaded: 1
+2024-12-25 11:47:20,716 - INFO - Known faces: ['yayayay']
+2024-12-25 11:47:20,751 - INFO - Starting main application loop
+2024-12-25 11:47:49,686 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:47:50,193 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:47:50,194 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:48:20,209 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:48:20,707 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:48:20,707 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:48:50,711 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:48:51,117 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:48:51,117 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:49:21,124 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:49:21,633 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:49:21,633 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:49:51,637 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:49:52,045 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:49:52,045 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:50:22,050 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:50:22,657 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:50:22,657 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:50:52,670 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:50:53,278 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:50:53,278 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:51:23,291 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:51:23,895 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:51:23,895 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:51:53,903 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:51:54,406 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:51:54,413 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:52:24,435 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:52:24,925 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:52:24,925 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:52:54,929 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:52:55,439 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:52:55,439 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:53:25,451 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:53:25,827 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:53:25,829 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:53:55,839 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:53:56,364 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:53:56,364 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:54:26,376 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:54:26,777 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:54:26,785 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:54:56,790 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:54:57,289 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:54:57,298 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:55:27,301 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:55:27,704 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:55:27,704 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:55:57,715 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:55:58,112 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:55:58,112 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:56:28,151 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:56:28,635 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:56:28,635 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:56:58,656 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:56:59,455 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:56:59,455 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:57:07,772 - INFO - Database connection closed properly
+2024-12-25 11:57:16,148 - INFO - Starting Attendance System
+2024-12-25 11:57:16,267 - INFO - Tables created successfully
+2024-12-25 11:57:16,267 - INFO - Database initialized
+2024-12-25 11:57:16,276 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:57:16,759 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:57:16,759 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:57:16,759 - INFO - Loading faces from data\user_faces
+2024-12-25 11:57:16,759 - INFO - Loading face from: data\user_faces\yayayay.jpg
+2024-12-25 11:57:17,787 - INFO - Successfully loaded face for: yayayay
+2024-12-25 11:57:17,787 - INFO - Total faces loaded: 1
+2024-12-25 11:57:17,787 - INFO - Known faces: ['yayayay']
+2024-12-25 11:57:17,828 - INFO - Starting main application loop
+2024-12-25 11:57:46,767 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:57:47,169 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:57:47,177 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:58:17,188 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:58:17,691 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:58:17,691 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:58:47,701 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:58:48,309 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:58:48,309 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:59:18,322 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:59:18,824 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:59:18,824 - INFO - Requested http://ipinfo.io/json
+2024-12-25 11:59:48,829 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 11:59:49,331 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 11:59:49,331 - INFO - Requested http://ipinfo.io/json
+2024-12-25 12:00:01,701 - INFO - Database connection closed properly
+2024-12-25 12:00:11,994 - INFO - Starting Attendance System
+2024-12-25 12:00:12,095 - INFO - Tables created successfully
+2024-12-25 12:00:12,095 - INFO - Database initialized
+2024-12-25 12:00:12,107 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 12:00:12,686 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 12:00:12,686 - INFO - Requested http://ipinfo.io/json
+2024-12-25 12:00:12,686 - INFO - Loading faces from data\user_faces
+2024-12-25 12:00:12,686 - INFO - Loading face from: data\user_faces\yayayay.jpg
+2024-12-25 12:00:13,715 - INFO - Successfully loaded face for: yayayay
+2024-12-25 12:00:13,715 - INFO - Total faces loaded: 1
+2024-12-25 12:00:13,715 - INFO - Known faces: ['yayayay']
+2024-12-25 12:00:13,749 - INFO - Starting main application loop
+2024-12-25 12:00:42,680 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 12:00:43,297 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 12:00:43,297 - INFO - Requested http://ipinfo.io/json
+2024-12-25 12:00:46,368 - INFO - Database connection closed properly
+2024-12-25 12:04:27,330 - INFO - Starting Attendance System
+2024-12-25 12:04:27,386 - INFO - Tables checked/created successfully
+2024-12-25 12:04:27,386 - INFO - Database initialized
+2024-12-25 12:04:27,396 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 12:04:27,858 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 12:04:27,858 - INFO - Requested http://ipinfo.io/json
+2024-12-25 12:04:27,858 - INFO - Loading faces from data\user_faces
+2024-12-25 12:04:27,858 - INFO - Loading face from: data\user_faces\yayayay.jpg
+2024-12-25 12:04:28,874 - INFO - Successfully loaded face for: yayayay
+2024-12-25 12:04:28,874 - INFO - Total faces loaded: 1
+2024-12-25 12:04:28,874 - INFO - Known faces: ['yayayay']
+2024-12-25 12:04:28,907 - INFO - Starting main application loop
+2024-12-25 12:04:57,870 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 12:04:58,377 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 12:04:58,377 - INFO - Requested http://ipinfo.io/json
+2024-12-25 12:05:28,394 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 12:05:28,791 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 12:05:28,791 - INFO - Requested http://ipinfo.io/json
+2024-12-25 12:05:39,706 - INFO - Database connection closed properly
+2024-12-25 12:14:46,993 - INFO - Starting Attendance System
+2024-12-25 12:14:47,082 - INFO - Database tables checked/created successfully
+2024-12-25 12:14:47,093 - DEBUG - Starting new HTTP connection (1): ipinfo.io:80
+2024-12-25 12:14:47,682 - DEBUG - http://ipinfo.io:80 "GET /json HTTP/11" 200 208
+2024-12-25 12:14:47,682 - INFO - Requested http://ipinfo.io/json
+2024-12-25 12:14:47,682 - INFO - Loading faces from data\user_faces
+2024-12-25 12:14:47,682 - INFO - Loading face from: data\user_faces\yayayay.jpg
+2024-12-25 12:14:48,709 - INFO - Successfully loaded face for: yayayay
+2024-12-25 12:14:48,709 - INFO - Total faces loaded: 1
+2024-12-25 12:14:48,709 - INFO - Known faces: ['yayayay']
+2024-12-25 12:14:48,758 - INFO - Starting main application loop
+2024-12-25 12:35:50,843 - INFO - Initializing database
+2024-12-25 12:35:50,861 - INFO - Connecting to database
+2024-12-25 12:35:50,861 - INFO - Creating/checking tables
+2024-12-25 12:35:50,863 - INFO - Checking admin_users table
+2024-12-25 12:35:50,864 - INFO - Checking users table
+2024-12-25 12:35:50,865 - INFO - Checking attendance table
+2024-12-25 12:35:50,865 - INFO - All tables checked/created successfully
+2024-12-25 12:35:50,865 - INFO - Database initialization complete
+2024-12-25 12:35:50,870 - INFO - Fetching all attendance records
+2024-12-25 12:35:50,875 - INFO - Found 0 attendance records
+2024-12-25 12:35:50,876 - INFO - Fetching all users
+2024-12-25 12:35:50,876 - INFO - Found 0 users
+2024-12-25 12:37:08,523 - INFO - Database connection closed
+2024-12-25 12:37:13,303 - INFO - Initializing database
+2024-12-25 12:37:13,303 - INFO - Connecting to database
+2024-12-25 12:37:13,303 - INFO - Creating/checking tables
+2024-12-25 12:37:13,303 - INFO - Checking admin_users table
+2024-12-25 12:37:13,303 - INFO - Checking users table
+2024-12-25 12:37:13,303 - INFO - Checking attendance table
+2024-12-25 12:37:13,303 - INFO - All tables checked/created successfully
+2024-12-25 12:37:13,303 - INFO - Database initialization complete
+2024-12-25 12:37:13,312 - INFO - Fetching all attendance records
+2024-12-25 12:37:13,317 - INFO - Found 0 attendance records
+2024-12-25 12:37:13,318 - INFO - Fetching all users
+2024-12-25 12:37:13,318 - INFO - Found 0 users
+2024-12-25 12:37:20,253 - INFO - Database connection closed
+2024-12-26 17:06:31,138 - INFO - Anti-spoofing detector initialized with improved depth detection
+2024-12-26 17:16:05,226 - INFO - Distance calculated: 133.66m
+2024-12-26 17:16:05,226 - INFO - Distance calculated: 245.63m
+2024-12-26 17:24:15,946 - INFO - Distance calculated: 133.66m
+2024-12-26 17:24:15,950 - INFO - Distance calculated: 245.63m
+2024-12-26 21:12:45,601 - INFO - Distance calculated: 133.66m
+2024-12-26 21:12:45,602 - INFO - Distance calculated: 245.63m
+2024-12-26 21:15:26,320 - INFO - Distance calculated: 1017261.20m
+2024-12-26 21:15:26,320 - INFO - Distance calculated: 245.63m
+2024-12-26 22:15:22,147 - INFO - Distance calculated: 1017261.20m
+2024-12-26 22:15:22,148 - INFO - Distance calculated: 245.63m
+2024-12-26 22:37:39,457 - INFO - Distance calculated: 1017261.20m
+2024-12-26 22:37:39,457 - INFO - Distance calculated: 245.63m
+2024-12-26 23:13:35,543 - INFO - Distance calculated: 1017261.20m
+2024-12-26 23:13:35,543 - INFO - Distance calculated: 245.63m
+2024-12-26 23:16:55,574 - INFO - Distance calculated: 1017261.20m
+2024-12-26 23:16:55,574 - INFO - Distance calculated: 245.63m
+2024-12-26 23:52:37,965 - INFO - Distance calculated: 1017261.20m
+2024-12-26 23:52:37,965 - INFO - Distance calculated: 245.63m
+2024-12-27 00:52:45,355 - INFO - Distance calculated: 1017261.20m
+2024-12-27 00:52:45,355 - INFO - Distance calculated: 245.63m
